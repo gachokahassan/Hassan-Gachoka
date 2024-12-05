@@ -1,7 +1,7 @@
 # Hi 👋, I'm Hassan Gachoka 👨‍💻
 
 <div style="display: inline-block; width: 100%; text-align: center;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&duration=3000&pause=500&color=FF7800&background=FF373700&vCenter=true&multiline=true&repeat=false&width=550&height=175&lines=%E2%98%81%EF%B8%8F+AWS+Certified+Cloud+Expert;%F0%9F%94%92+Cybersecurity+Specialist;%F0%9F%8C%90+Network+Engineer;%F0%9F%93%8B+ClickUp+Expert;%F0%9F%A4%9F+AI+Specialist" alt="Typing SVG" style="max-width: 100%; height: auto;"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&duration=3000&pause=500&color=FF7800&background=FF373700&vCenter=true&multiline=true&repeat=false&width=550&height=175&lines=%E2%98%81%EF%B8%8F+AWS+Cloud+Expert;%F0%9F%94%92+Cybersecurity+Specialist;%F0%9F%8C%90+Network+Engineer;%F0%9F%93%8B+ClickUp+Expert;%F0%9F%A4%9F+AI+Specialist" alt="Typing SVG" style="max-width: 100%; height: auto;"/>
   <span style="display: flex; justify-content: center; align-items: center; padding-left: 10px;">
     <img align="right" src="img/developer.gif" width="30%" style="margin-left: 20px; margin-top: 10px;" />
   </span>

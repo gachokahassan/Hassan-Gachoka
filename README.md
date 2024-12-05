@@ -76,11 +76,11 @@
 
 ### 📝 Certifications:
 
-- AWS Certified Solutions Architect
-- ClickUp Advanced AI Certificate
-- ISC2 Certified in Cybersecurity
-- Microsoft Azure Administrator Associate
-- Cisco Certified Network Associate (CCNA)
+- AWS Solutions Architect
+- ClickUp Advanced AI 
+- (ISC)² Certified in Cybersecurity (CC)
+- Microsoft Azure Administrator 
+- ClickUp Expert 
 
 **Explore my full list of certifications on** [![Credly](https://img.shields.io/badge/Credly-%23F29C11.svg?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/gachokahassan)
 

@@ -25,8 +25,7 @@
 - 🌐 My projects and contributions showcase my passion for technology—you can explore them on my GitHub.
 - 🔄 Focused on fostering growth and learning opportunities through community engagement and mentorship.
 
-### 🚀 Featured Projects:
-# Featured Projects
+## 🚀 Featured Projects:
 
 - [Amazon VPC Peering](https://github.com/hassangachoka/amazon-vpc-peering)  
   Implemented VPC peering to enable secure communication between Aamazon VPCs.

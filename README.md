@@ -82,7 +82,7 @@
 - Microsoft Azure Administrator 
 - ClickUp Expert 
 
-**Explore my full list of certifications on** [![Credly](https://img.shields.io/badge/Credly-%23F29C11.svg?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/gachokahassan)
+**Explore my full list of badges on** [![Credly](https://img.shields.io/badge/Credly-%23F29C11.svg?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/gachokahassan)
 
 
 ### 📢 Let's Connect:
